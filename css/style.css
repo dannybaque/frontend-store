@@ -36,7 +36,7 @@ a{
 }
 
 img{
-    max-width: 100%;
+    width: 100%;
 }
 
 .contenedor{
@@ -224,13 +224,14 @@ h3{
     text-align: justify;
 }
 
-.bloque__imagen{
-    width: 100%;
-}
 
 .bloque__titulo{
     margin: 0;
 }
+
+/* pagina del producto seleccionado */
+
+
 
  
 
